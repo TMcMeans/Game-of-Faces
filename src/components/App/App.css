@@ -1,7 +1,7 @@
 /*font-family: 'Cinzel Decorative', cursive;
 font-family: 'Julius Sans One', sans-serif;*/
 
-h1 {
+.app-title {
   font-family: 'Cinzel Decorative', cursive;
   text-transform: uppercase;
 }
